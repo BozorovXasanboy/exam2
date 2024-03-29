@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contrainer {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #D6E1FF;
+}
+
+.card {
+    background-color: #fff;
+    justify-content: center;
+    width: 450px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left: 290px;
+}
+
+.paragraph1 {
+    font-family: Red;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 37.04px;
+    text-align: center;
+}
+
+.paragraph2 {
+    font-family: Red;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+
+.paragraph3 {
+    font-family: Red;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18.52px;
+    text-align: left;
+    color: blue;
+    margin-right: 30px;
+}
+
+.card2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    align-items: center;
+    margin-right: 10px;
+    background-color: #F7F9FF;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.img-plan {
+    margin-right: 190px;
+}
+
+.change {
+    color: blue;
+    margin-right: 20px;
+}
+
+.img-music{
+    margin-left: 20px;
+}
+
+.button {
+    border: none;
+    padding: 15px 102px;
+    justify-content: center;
+    margin-left: 70px;
+    color: white;
+    background-color: #382AE1;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 1px 10px 20px gray;
+}
+
+.paragraph4 {
+    font-family: Red;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 19.85px;
+    text-align: center;
+    color: grey;
+    margin-top: 20px;
+}
